@@ -194,7 +194,7 @@ $ php artisan vendor:publish --tag=jetstream-views
 
 ## <a name="parte19">19 - 04 - Validar Permissões de Times no Laravel Jetstream</a>
 
-
+- https://github.com/especializati/curso-laravel-jetstream
 
 [Voltar ao Índice](#indice)
 
