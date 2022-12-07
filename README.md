@@ -84,7 +84,9 @@ https://academy.especializati.com.br/curso/laravel-jetstream
 
 ## <a name="parte7">7 - 01 - Gerenciar Perfil no Laravel Jetstream</a>
 
-
+```
+$ php artisan vendor:publish --tag=jetstream-views
+```
 
 [Voltar ao Índice](#indice)
 
